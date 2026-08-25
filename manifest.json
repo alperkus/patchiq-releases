@@ -1,0 +1,13 @@
+{
+  "surumler": [
+    {
+      "surum": "0.3.5-beta",
+      "yayim": "2026-08-25T20:26:03Z",
+      "asgari": "0.2.3-beta",
+      "sha256": "f4fdb1ff9cb4fd385b45dd1073be27b5c430e666cca72bc0405076419bd84243",
+      "boyut": 113669934,
+      "paket_adresi": "https://github.com/alperkus/patchiq-releases/releases/download/v0.3.5-beta/patchiq-0.3.5-beta-update.tar.gz",
+      "not_adresi": "https://raw.githubusercontent.com/alperkus/patchiq-releases/main/notlar/0.3.5-beta.md"
+    }
+  ]
+}
